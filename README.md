@@ -1,4 +1,4 @@
-# E-commerce Website by Dennis Ivy
+# E-commerce Website
 
 <p align="center">
     <img src="docs/images/1-the-product.png" width='500'/>
