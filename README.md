@@ -1,4 +1,4 @@
-# E-commerce Website
+# E-commerce Website by Dennis Ivy
 
 <p align="center">
     <img src="docs/images/1-the-product.png" width='500'/>
@@ -47,3 +47,8 @@ pip install -r requirements.txt
 # Run server
 python manage.py runserver
 ```
+
+## References
+
+- Django E-Commerce Website by DennisIvy [Playlist](https://youtube.com/playlist?list=PL-51WBLyFTg0omnamUjL1TCVov7yDTRng) | Step by step [Guide](https://codewithsteps.herokuapp.com/project/cd0492f3-ee93-471a-9dbc-b047233336c3/) Docs | Github [code](https://github.com/divanov11/django_ecommerce_mod5/)
+- Learn from [Dennis Ivy](https://dennisivy.teachable.com/)
